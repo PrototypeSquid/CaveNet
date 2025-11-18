@@ -8,4 +8,4 @@ Project started 11/17/25
 HOW TO RUN THE CLIENT ON WINDOWS
 Download the executable
 Open a powershell prompt in the directory the executable is in.
-Run the client with .\cave_client_windows.exe <IP ADRESS> 7777
+Run the client with .\cave_client_windows.exe (ipadress) 7777
